@@ -1,0 +1,30 @@
+{
+  "name": "rsmq-promise-native",
+  "version": "0.0.2",
+  "description": "RSMQ Primises but Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottsloane/rsmq-promise-native.git"
+  },
+  "keywords": [
+    "rsmq",
+    "redis",
+    "promise",
+    "native",
+    "queue",
+    "work"
+  ],
+  "author": "Scott Sloane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scottsloane/rsmq-promise-native/issues"
+  },
+  "homepage": "https://github.com/scottsloane/rsmq-promise-native#readme",
+  "dependencies": {
+    "rsmq": "^0.12.2"
+  }
+}
